@@ -7,8 +7,10 @@ This is the basic website for the Whisky Oriented Development group. I encourage
 
 ### Get started
 
-1. [Fork the repository](https://github.com/muan/scribble/fork).
-2. Clone the repository to your computer.<br /> `git clone https://github.com/username/scribble`
+If you want to run this on your local machine to test things out before you commit them, the steps are:
+
+1. [Fork the repository](https://github.com/WhiskyDev/whiskydev.github.io/fork).
+2. Clone the repository to your computer.<br /> `git clone https://github.com/username/whiskydev.github.io`
 3. `bundle install`
 4. **Using older versions of Jekyll**<br />
   Build and run jekyll using `jekyll --server --auto`.<br />
@@ -20,9 +22,10 @@ This is the basic website for the Whisky Oriented Development group. I encourage
 
 ### Make it yours
 
-1. I have extract most user specific information to `_config.yml`, you should be able to set up almost everything from it.
-2. Change about.md for blog intro.
+1. Much of the configurable site information is stored in `_config.yml`, you should be able to set up almost everything from it.
+2. Change about.md for the basic site information.
 3. For domain settings, see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages).
+4. New posts can be added 
 
 ---
 
