@@ -2,6 +2,7 @@
 layout: post
 title: Coming Soon
 date: 2014-01-14 22:04:00
+share: y
 ---
 
 Do you like Whisky? Do you like meeting new people? Do you like the possibility of learning something new? Then we should talk.
