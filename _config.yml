@@ -18,12 +18,15 @@ links:
   - name:         Facebook
     url:          https://www.facebook.com/whiskydev
     external:     true
+    publisher:    true
   - name:         Twitter
     url:          https://twitter.com/whiskydev
     external:     true
+    publisher:    true
   - name:         Google+
     url:          https://plus.google.com/104938615413164700753
     external:     true
+    publisher:    true
 pygments:         true
 permalink:        pretty
 markdown:         redcarpet
