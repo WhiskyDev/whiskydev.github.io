@@ -3,6 +3,7 @@ layout: post
 title: February Tasting
 date: 2014-01-20 20:14:00
 share: y
+alias: [/aliased-page]
 ---
 
 Do you like Whisky? Do you like meeting new people? Do you like the possibility of learning something new? Then join us for a tasting.
