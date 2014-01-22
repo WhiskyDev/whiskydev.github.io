@@ -16,6 +16,6 @@ and pick up on some cool new technologies.
 
 Our first tasting will feature 8 half ounce pours that highlight the whiskys of Scotland.
 
-There are a limited number of seats, so get your tickets early. You can find them through our [Eventbrite page](http://www.eventbrite.ca/e/whisky-oriented-development-february-tasting-tickets-10266380019?utm_campaign=new_eventv2&utm_medium=website&utm_source=eb_email&utm_term=eventurl_text).
+There are a limited number of seats, so get your tickets early. You can find them through our **[Eventbrite page](http://www.eventbrite.ca/e/whisky-oriented-development-february-tasting-tickets-10266380019?utm_campaign=new_eventv2&utm_medium=website&utm_source=eb_email&utm_term=eventurl_text)**.
 
 Please help make our first event a success by telling other programmers!
