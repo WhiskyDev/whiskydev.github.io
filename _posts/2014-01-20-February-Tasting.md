@@ -6,6 +6,8 @@ share: y
 alias: [/aliased-page]
 ---
 
+**[Get your tickets here](http://www.eventbrite.ca/e/whisky-oriented-development-february-tasting-tickets-10266380019?utm_campaign=new_eventv2&utm_medium=website&utm_source=eb_email&utm_term=eventurl_text)**
+
 Do you like Whisky? Do you like meeting new people? Do you like the possibility of learning something new? Then join us for a tasting.
 
 At our events, we hope that you will be able to walk away knowing a little bit more about whisky, what you like, what you don't, and maybe even pick up on a favourite new distillery.
@@ -16,6 +18,6 @@ and pick up on some cool new technologies.
 
 Our first tasting will feature 8 half ounce pours that highlight the whiskys of Scotland.
 
-There are a limited number of seats, so get your tickets early. You can find them through our **[Eventbrite page](http://www.eventbrite.ca/e/whisky-oriented-development-february-tasting-tickets-10266380019?utm_campaign=new_eventv2&utm_medium=website&utm_source=eb_email&utm_term=eventurl_text)**.
+There are a limited number of seats, so **[get your tickets](http://www.eventbrite.ca/e/whisky-oriented-development-february-tasting-tickets-10266380019?utm_campaign=new_eventv2&utm_medium=website&utm_source=eb_email&utm_term=eventurl_text)** early. You can find them through our **[Eventbrite page](http://www.eventbrite.ca/e/whisky-oriented-development-february-tasting-tickets-10266380019?utm_campaign=new_eventv2&utm_medium=website&utm_source=eb_email&utm_term=eventurl_text)**.
 
 Please help make our first event a success by telling other programmers!
