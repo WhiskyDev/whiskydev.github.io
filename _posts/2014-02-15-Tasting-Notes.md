@@ -1,14 +1,14 @@
 ---
 layout: post
-title: February Tasting
-date: 2014-02-15 19:00:00
+title: Notes from the February Tasting
+date: 2014-02-18 19:00:00
 share: y
 alias: [/aliased-page]
 ---
 
 ![Bottles from tasting](/images/2014-02/DSCF0779.jpg)
 
-It was a giant success thank you everyone who came out! Check out the [photos from the night](https://plus.google.com/u/0/photos/104938615413164700753/albums/5981943776381255073).
+Our first tasting was a giant success thank you everyone who came out! Check out the [photos from the night](https://plus.google.com/u/0/photos/104938615413164700753/albums/5981943776381255073).
 
 ## Glenmorangie Original
 ### Distillery
