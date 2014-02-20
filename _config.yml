@@ -8,10 +8,11 @@ google_analytics: UA-47125836-1 # set tracking, remove from /javascripts/basic.j
 
 links:
   - name:         About
-    url:          /about
+    url:          /about/
   - name:         Blog
     url:          /
-    external:     true
+  - name:         Members
+    url:          /members/
   - name:         Email
     url:          mailto:whiskydev@gmail.com
     external:     true
