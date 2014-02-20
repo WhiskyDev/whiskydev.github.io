@@ -1,0 +1,13 @@
+---
+layout: index
+---
+
+<ul class="members">
+  {% for page in site.pages %}
+	  {% if page.layout == "member" %}
+	  <li>
+	  	<a href="{{page.url}}">{{page.name}}</a></p>
+	  </li>
+	  {% endif %}
+  {% endfor %}
+</ul>

@@ -5,6 +5,11 @@ This is the basic website for the Whisky Oriented Development group. I encourage
 
 ---
 
+### Add yourself to the members listing
+
+You can add yourself to the members page (and are encouraged to do so), by forking this repo, adding a new markdown
+page for yourself (use jamie-starke.md as an example), and then creating a pull request.
+
 ### Get started
 
 If you want to run this on your local machine to test things out before you commit them, the steps are:
