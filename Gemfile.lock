@@ -24,7 +24,7 @@ GEM
     directory_watcher (1.4.1)
     fast-stemmer (1.0.2)
     highline (1.6.19)
-    liquid (2.5.2)
+    liquid (2.5.5)
     maruku (0.7.0)
     posix-spawn (0.3.6)
     pygments.rb (0.5.2)
@@ -39,3 +39,4 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll!
+  liquid (>= 2.5.3)
