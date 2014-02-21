@@ -1,17 +1,17 @@
 ---
-layout: index
+layout: page
+title: Members
 ---
 
 <ul class="members">
   {% for page in site.pages %}
     {% if page.layout == "member" %}
-    <li>
-      <p><a href="{{page.url}}">{{page.name}}</a></p>
+    <li><a href="{{page.url}}">{{page.name}}</a>
     </li>
     {% endif %}
   {% endfor %}
 </ul>
 
 <p> To add your own members page, see our
-[Add yourself to the members pages](https://github.com/WhiskyDev/whiskydev.github.io/#add-yourself-to-the-members-pages)
-info.
+<a href="https://github.com/WhiskyDev/whiskydev.github.io/#add-yourself-to-the-members-listing">Add yourself to the members pages</a>
+info.</p>
