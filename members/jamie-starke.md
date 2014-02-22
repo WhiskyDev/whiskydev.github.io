@@ -5,7 +5,7 @@ name: Jamie Starke
 
 ![Jamie Starke](/members/images/jamie-starke.jpg)
 
-I'm one of the organizers of Whisky Oriented Development, and I lead our social media and marketting efforts.
+I'm one of the organizers of Whisky Oriented Development, and I lead our social media and marketing efforts.
 
 ## Website
 
