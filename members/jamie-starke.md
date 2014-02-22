@@ -9,7 +9,7 @@ I'm one of the organizers of Whisky Oriented Development, and I lead our social 
 
 ## Website
 
-http://www.jamiestarke.com
+[http://www.jamiestarke.com](http://www.jamiestarke.com)
 
 ## Technologies of choice
 
