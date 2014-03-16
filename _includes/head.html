@@ -22,6 +22,10 @@
   <meta content="{{ site.description }}" property='og:description' />
   <meta content="blog" property="og:type" />
 {% endif %}
+{% if page.redirect %}
+  <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+  <link rel="canonical" href="{{ page.redirect }}" />
+{% endif %}
 <!-- - -->
 {% include ga.html %}
 <script>(function(d, s, id) {
