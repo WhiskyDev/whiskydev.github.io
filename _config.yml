@@ -1,6 +1,6 @@
 title:            Whisky Oriented Development
 description:      Victoria's programmers' whisky society.
-url:              # Site url.
+url:              http://whiskydev.com
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.

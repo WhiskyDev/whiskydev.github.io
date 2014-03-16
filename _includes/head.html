@@ -15,7 +15,7 @@
 <meta content="{{ site.facebook_appid }}" property="fb:app_id" />
 {% if page.date %}
   <meta content='{{ site.url }}{{ page.url }}' property='og:url' />
-  {% page.description %}
+  {% if page.description %}
   <meta content="{{ page.description }}" property='og:description' />
   <meta name="description" content="{{ page.description }}" />
   {% else %}
@@ -24,7 +24,7 @@
   <meta content="article" property="og:type" />
 {% else %}
   <meta content='{{ site.url }}' property='og:url' />
-  {% page.description %}
+  {% if page.description %}
   <meta content="{{ page.description }}" property='og:description' />
   <meta name="description" content="{{ page.description }}" />
   {% else %}
