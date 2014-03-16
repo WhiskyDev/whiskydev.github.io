@@ -23,7 +23,7 @@ layout: none
         <changefreq>{{ page.sitemap.changefreq }}</changefreq>
         <priority>{{ page.sitemap.priority }}</priority>
        </url>
-    {% elsif page.url == "/" %}
+    {% elsif page.url == "/" or page.url == "/blog/" %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
         {% if site.posts.first.lastmod == null %}
