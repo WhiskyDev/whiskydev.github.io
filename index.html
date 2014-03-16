@@ -1,12 +1,27 @@
 ---
 layout: index
+description: Victoria BC's programmers whisky society. Connecting technical people through whisky to share their passions and and pick up new technologies.
 ---
 
+<h4>Our latest Announcement:</h4>
 <ul class="posts">
-  {% for post in site.posts %}
+  {% assign post = site.posts.first %}
   <li>
     <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
-  {% endfor %}
 </ul>
+
+<p>
+Do you like Whisky? Do you like meeting new people? Do you like learning something new?
+</p>
+<p>
+At our events, we hope that you will be able to walk away knowing a bit more about whisky, 
+what you like, what you don’t, and maybe even pick up on a favourite new distillery.
+</p>
+<p>
+Whisky Oriented Development is more than just whisky, it is about connecting with other 
+technical people and sharing your passions.  We want it to be a comfortable place where 
+you meet other programmers from around town, learn what else is being worked on in 
+Victoria, and pick up on some cool new technologies.
+</p>
