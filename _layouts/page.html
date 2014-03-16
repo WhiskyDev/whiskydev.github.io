@@ -10,11 +10,16 @@
     <div id='container'>
       {% include links.html %}
       <div class="content">
+        {% if page.redirect %}
+          <div class="moved">
+          	The page you are viewing has moved. <a href="{{ page.redirect }}">Click here</a> to be taken to the new page.
+          </div>
+      	{% endif %}    
           <section class='post'>
             <h1>{{ page.title }}</h1>
             {{ content }}
           </section>
-        </div>
+      </div>
     </div>
     {% include footer.html %}
   </body>

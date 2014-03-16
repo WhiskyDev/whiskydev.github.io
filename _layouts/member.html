@@ -10,6 +10,11 @@
       {% include links.html %}
       {% include pages.html %}
       <div class="content">
+        {% if page.redirect %}
+          	<div class="moved">
+            	The page you are viewing has moved. <a href="{{ page.redirect }}">Click here</a> to be taken to the new page.
+            </div>
+        {% endif %}  
         <section class='member'>
           <h1 class="upcase">
             {{ page.name }}

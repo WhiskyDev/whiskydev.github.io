@@ -11,6 +11,11 @@
       {% include pages.html %}
       <div class="content">
         <section class='post'>
+          {% if page.redirect %}
+          	<div class="moved">
+            	The page you are viewing has moved. <a href="{{ page.redirect }}">Click here</a> to be taken to the new page.
+            </div>
+          {% endif %}        
           <h1 class="upcase">
             <div class='date'>{{ page.date | date_to_string }}</div>
             {{ page.title }}

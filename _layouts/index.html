@@ -7,8 +7,13 @@
   <body>
     {% include header.html %}
     <div id='container'>
-      {% include links.html %}
+      {% include links.html %} 
       <div class="content">
+          {% if page.redirect %}
+          	<div class="moved">
+            	The page you are viewing has moved. <a href="{{ page.redirect }}">Click here</a> to be taken to the new page.
+            </div>
+          {% endif %}  
         {{ content }}
       </div>
     </div>
