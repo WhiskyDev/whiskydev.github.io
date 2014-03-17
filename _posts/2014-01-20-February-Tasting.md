@@ -3,7 +3,7 @@ layout: post
 title: February Tasting
 date: 2014-01-20 20:14:00
 share: y
-alias: [/aliased-page]
+disqus: y
 ---
 
 **[Get your tickets now](http://www.eventbrite.ca/e/whisky-oriented-development-february-tasting-tickets-10266380019?utm_campaign=new_eventv2&utm_medium=website&utm_source=eb_email&utm_term=eventurl_text)**

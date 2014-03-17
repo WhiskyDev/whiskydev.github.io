@@ -3,7 +3,7 @@ layout: post
 title: Notes from the February Tasting
 date: 2014-02-18 19:00:00
 share: y
-alias: [/aliased-page]
+disqus: y
 ---
 
 ![Bottles from tasting](/images/2014-02/DSCF0779.jpg)
