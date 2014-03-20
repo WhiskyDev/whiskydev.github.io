@@ -20,6 +20,11 @@
             <div class='date'>{{ page.date | date_to_string }}</div>
             {{ page.title }}
           </h1>
+          {% if page.image %}
+          <p>
+	          <img src="{{ page.image.src }}" alt="{{ page.image.desc }}" />
+	      </p>    
+	      {% endif %}
           {{ content }}
           {% include signoff.html %}
 

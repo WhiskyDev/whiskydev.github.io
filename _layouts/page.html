@@ -17,6 +17,11 @@
       	{% endif %}    
           <section class='post'>
             <h1>{{ page.title }}</h1>
+        	{% if page.image %}
+          	<p>
+	          <img src="{{ page.image.src }}" alt="{{ page.image.desc }}" />
+	      	</p>    
+	      	{% endif %}
             {{ content }}
           </section>
       </div>

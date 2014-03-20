@@ -1,5 +1,6 @@
 title:            Whisky Oriented Development
 description:      Victoria's programmers' whisky society.
+main_image:       /images/wod-clear.png
 url:              http://whiskydev.com
 signoff:          The Whisky Oriented Development team # Your name.
 disqus_shortname: whiskydev # disqus comment thread for post header options. ( leave blank if unwanted. )
