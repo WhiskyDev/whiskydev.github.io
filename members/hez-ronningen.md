@@ -1,9 +1,9 @@
 ---
 layout: member
 name: Hez Ronningen
+image: 
+    src: /members/images/hez-ronningen.jpg
 ---
-
-![Hez Ronningen](/members/images/hez-ronningen.jpg)
 
 I'm one of the organizers of Whisky Oriented Development, and love working at [InQuicker](https://inquicker.com).
 
