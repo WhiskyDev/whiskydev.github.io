@@ -11,26 +11,37 @@
 <!-- - -->
 <meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
 <meta content='text/html; charset=utf-8' http-equiv='content-type' />
-<meta content="http://muan.co/images/og.png" property="og:image" />
+{% if page.image %}
+  <meta content="{{ site.url }}{{ page.image.src }}" property="og:image" />
+  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image.src }}" />
+{% else %}
+  <meta content="{{ site.url }}{{ site.main_image }}" property="og:image" />
+  <meta name="twitter:image:src" content="{{ site.url }}{{ site.main_image }}" />
+{% endif %}
+<meta content="{{ site.title }}" property="og:site_name" />
 <meta content="{{ site.facebook_appid }}" property="fb:app_id" />
-{% if page.date %}
-  <meta content='{{ site.url }}{{ page.url }}' property='og:url' />
-  {% if page.description %}
+<meta content='{{ site.url }}{{ page.url }}' property='og:url' />
+<meta content='{{ site.url }}{{ page.url }}' name='twitter:url' />
+{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}" />
   <meta content="{{ page.description }}" property='og:description' />
   <meta name="description" content="{{ page.description }}" />
-  {% else %}
-  <meta content="{{ page.content | strip_html | strip_newlines | truncate: 120 }}" property='og:description' /> 
-  {% endif %}
+{% else %}
+  <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 120 }}" />
+  <meta content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 120 }}" property='og:description' />
+  <meta name="description" content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 120 }}" /> 
+{% endif %}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@whiskydev" />
+<meta name="twitter:creator" content="@whiskydev" />
+{% if page.date %}
   <meta content="article" property="og:type" />
 {% else %}
-  <meta content='{{ site.url }}' property='og:url' />
-  {% if page.description %}
-  <meta content="{{ page.description }}" property='og:description' />
-  <meta name="description" content="{{ page.description }}" />
-  {% else %}
-  <meta content="{{ site.description }}" property='og:description' />
-  {% endif %}
-  <meta content="blog" property="og:type" />
+  <meta content="website" property="og:type" />
 {% endif %}
 {% if page.redirect %}
   <meta http-equiv="refresh" content="0; url={{ page.redirect }}">

@@ -1,9 +1,9 @@
 ---
 layout: member
 name: Jeffery Grajkowski
+image: 
+    src: /members/images/jeffery-grajkowski.jpg
 ---
-
-![Jeffery Grajkowski](/members/images/jeffery-grajkowski.jpg)
 
 I'm one of the organizers of Whisky Oriented Development.  I help with presenting and organization, and head the Sarcasm Subcommittee (like we need your support).
 
