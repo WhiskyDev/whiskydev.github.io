@@ -19,6 +19,11 @@
           <h1 class="upcase">
             {{ page.name }}
           </h1>
+          {% if page.image %}
+          <p>
+	          <img src="{{ page.image.src }}" alt="{{ page.name }}" />
+	      </p>
+	      {% endif %}
           {{ content }}
         </section>
       </div>

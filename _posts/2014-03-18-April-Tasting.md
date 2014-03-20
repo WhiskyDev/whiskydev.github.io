@@ -4,9 +4,10 @@ title: April Tasting
 date: 2014-03-19 21:00:00
 share: y
 disqus: y
+image: 
+    src: /images/2014-03/IMG_2866.jpg
+    desc: Glasses of Whisky
 ---
-
-![Glasses of Whisky](/images/2014-03/IMG_2866.jpg)
 
 Do you like Whisky? Do you like meeting new people? Do you like learning something new? 
 

@@ -1,9 +1,9 @@
 ---
 layout: member
 name: Jamie Starke
+image: 
+    src: /members/images/jamie-starke.jpg
 ---
-
-![Jamie Starke](/members/images/jamie-starke.jpg)
 
 I'm one of the organizers of Whisky Oriented Development, and I lead our social media and marketing efforts.
 
