@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Mailing List
-redirect: https://docs.google.com/forms/d/1MYPMB9Rw31RQrRCm-wA-AMSw-qUlzxkIuh4xd5bs3FI/viewform
+redirect: http://cmtd1.com/s/443/4556513ea7954c0fd327cd59d77c4745
 ---
 
