@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Our April Tasting: Whiskies Around the World
+title: "Our April Tasting: Whiskies Around the World"
 date: 2014-03-27 07:30:00
 share: y
 disqus: y
 image: 
-    src: /images/2014-03/april-tasting-header.jpg
+    src: /images/2014-03/april-tasting-header.png
     desc: Whisky tasting
 ---
 
@@ -20,4 +20,4 @@ There will be 30 tickets available for the event, and they will be $40, $35 for 
 $30 if you're one of the first 10.
 
 If you'd like to get your hands on a ticket, they will go on sale on **Friday April 4th**, at **7:30 am** and 
-they will be available through our [Tickets page](/tickets/).
+they will be available through our **[Tickets page](/tickets/)**.
