@@ -2,6 +2,7 @@ title:            Whisky Oriented Development
 description:      Victoria's programmers' whisky society.
 main_image:       /images/wod-clear.png
 url:              http://whiskydev.com
+base_path:        # The basepath to use, if different than /
 signoff:          The Whisky Oriented Development team # Your name.
 disqus_shortname: whiskydev # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   306341309519905 # appid for like button, remove from /_includes/share.html if unwanted.
