@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mailing List
+title: Subscribe to our Newsletter
 redirect: http://eepurl.com/Q-BAr
 ---
 
