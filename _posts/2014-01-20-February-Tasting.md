@@ -6,8 +6,6 @@ share: y
 disqus: y
 ---
 
-**[Get your tickets now](/tickets/)**
-
 Do you like Whisky? Do you like meeting new people? Do you like the possibility of learning something new? Then join us for a tasting.
 
 At our events, we hope that you will be able to walk away knowing a little bit more about whisky, what you like, what you don't, and maybe even pick up on a favourite new distillery.
@@ -21,5 +19,3 @@ Our first tasting will feature 8 half ounce pours that highlight the whiskys of 
 There are a limited number of seats, so **[get your tickets](/tickets/)**.
 
 Please help make our first event a success by telling other programmers!
-
-**[Get your tickets now](/tickets/)**
