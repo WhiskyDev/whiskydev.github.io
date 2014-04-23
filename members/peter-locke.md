@@ -7,7 +7,7 @@ image:
 
 Whisky lover, audiophile, marksman, outdoor enthusiast, athlete, dad, engineer, lover of living life. Co-founder / CTO of [Kiind](http://www.kiind.me). 
 
-
+Not a founding member of Whiskydev but I hold Graham's hand through lineup choices :P
 
 
 ## Technologies of choice
