@@ -31,7 +31,7 @@ From this screen configure your output codec.  If you don't have a strong prefer
 
 Click _Browse_ to choose where to save the file.
 
-We're now ready to record.  If you haven't already make sure Google Earth has visited each of your locations at least once this session so the tiled data is saved.  Click _Start_ and start going through the locations for your video.
+We're now ready to record.  If you haven't already make sure Google Earth has visited each of your locations at least once this session so the tiled data is cached.  Click _Start_ and start going through the locations for your video.
 
 ##Crop and Cut with FFmpeg
 [FFmpeg][5] is the workhorse that powers VLC's coding and decoding capabilities.  It also **doesn't suck**.  Technically we've already used it but now we're going to need the [command line tools][6].
@@ -47,7 +47,7 @@ and the command to cut into a shorter clip.
 ffmpeg -i YourMovie.mp4 -ss HH:MM:SS -to HH:MM:SS -async 1 YourCutMovie.mp4
 ```
 
-VLC is going to help us plug in the right values.  Open the recoded movie and find the crop video filter (_Tools_ ? _Effects and Filters_ ? _View Effects_ tab ? _Crop_ subtab).  Play with these values until only the Google Earth view is in the frame.
+VLC is going to help us plug in the right values.  Open the recoded movie and find the crop video filter (_Tools_ &rarr; _Effects and Filters_ &rarr; _View Effects_ tab &rarr; _Crop_ subtab).  Play with these values until only the Google Earth view is in the frame.
 
 ![VLC crop filter][7]
 
