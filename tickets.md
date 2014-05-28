@@ -1,7 +1,11 @@
 ---
 layout: page
 title: Tickets
-redirect: https://www.eventbrite.ca/e/april-tasting-whiskies-around-the-world-tickets-10964139035
 ---
 
-Tickets are on sale now, and you should be redirected shortly.
+Sorry friend, tickets are not yet on sale for our [February Tasting: Focus on the Finish][1].
+
+Tickets go on sale at **7am on Friday May 30th**. Check out the [event details][1] for more information.
+
+
+[1]: /2014/05/27/June-Tasting-Focus-on-the-Finish/
