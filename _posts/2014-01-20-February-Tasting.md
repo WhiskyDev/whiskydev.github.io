@@ -6,6 +6,8 @@ share: y
 disqus: y
 ---
 
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
+
 Do you like Whisky? Do you like meeting new people? Do you like the possibility of learning something new? Then join us for a tasting.
 
 At our events, we hope that you will be able to walk away knowing a little bit more about whisky, what you like, what you don't, and maybe even pick up on a favourite new distillery.
