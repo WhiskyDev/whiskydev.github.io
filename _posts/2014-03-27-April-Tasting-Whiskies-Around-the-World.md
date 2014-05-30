@@ -9,7 +9,7 @@ image:
     desc: Whisky tasting
 ---
 
-**[Get your tickets now](/tickets/)**
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
 
 By now, you've likely tried Scotch and possibly Rye, but have you tried an Irish, Welsh or Taiwanese whisky?
 
@@ -23,5 +23,3 @@ $30 if you're one of the first 10.
 
 If you'd like to get your hands on a ticket, they will go on sale on **Friday April 4th**, at **7:30 am** and 
 they will be available through our **[Tickets page](/tickets/)**.
-
-**[Get your tickets now](/tickets/)**

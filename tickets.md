@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Tickets
+redirect: http://www.eventbrite.ca/e/june-tasting-focus-on-the-finish-tickets-11773353417
 ---
 
-Sorry friend, tickets are not yet on sale for our [June Tasting: Focus on the Finish][1].
+Tickets are on sale now and you should be redirected shortly.
 
-Tickets go on sale at **7am on Friday May 30th**. Check out the [event details][1] for more information.
+Alternatively, you can [click here to go to the Eventbrite page][1].
 
-
-[1]: /2014/05/27/June-Tasting-Focus-on-the-Finish/
+[1]: http://www.eventbrite.ca/e/june-tasting-focus-on-the-finish-tickets-11773353417
