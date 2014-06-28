@@ -3,14 +3,15 @@ layout: post
 title: Notes from the June Tasting
 date: 2014-06-27 12:00:00
 share: y
+image: 
+    src: /images/2014-06/IMG_4573.jpg
+    desc: June Whisky Tasting Line-up
 ---
-
-<img  src="/images/2014-06/IMG_4573.jpg"/>
 
 ## Tomatin
 <img  src="/images/2014-06/IMG_4578.jpg" style="height: 250px"/>
 
-Half way between Inverness and Aviemore in the Scotish highlands. Deep in the Monadhliath Mountains. A formal distillery was first commissioned on the site in 1897, and at 315 metres above sea level, one of the highest in the country. Re-established in 1985 as the Tomatin Distillery company. In 2007, they produced 2.5 million litres. Monadhliath spring water used in distilling. Traditionally this whiskey was used to provide fillings for major blended whiskies in Scotland, but more recently, Tomatin is focusing on the company's own brand, and has won several international awards.
+Half way between Inverness and Aviemore in the Scotish highlands. Deep in the Monadhliath Mountains. A formal distillery was first commissioned on the site in 1897, and at 315 metres above sea level, one of the highest in the country. Re-established in 1985 as the Tomatin Distillery company. In 2007, they produced 2.5 million litres. Monadhliath spring water used in distilling. Traditionally this whisky was used to provide fillings for major blended whiskies in Scotland, but more recently, Tomatin is focusing on the company's own brand, and has won several international awards.
 
 
 <img src="/images/2014-06/1-tomatin_legacy.jpg" align="right" style="height: 250px"/>
@@ -35,6 +36,7 @@ Half way between Inverness and Aviemore in the Scotish highlands. Deep in the Mo
 <img src="/images/2014-06/2-tomatin_18_sherry.jpg" align="right" style="height: 250px"/>
 ### 18yr
 
+* [Link](http://www.tomatin.com/the-range/the-malts/eighteen-years-old)
 * Age: 18yr
 * Cask: Sherry Cask
 * Alcohol: 46%
@@ -56,7 +58,7 @@ Half way between Inverness and Aviemore in the Scotish highlands. Deep in the Mo
 
 <img src="/images/2014-06/IMG_4576.jpg" style="height: 250px"/>
 
-Owns the tallest stills in Scotland, allowing only the lightest and purest vapors to make it to the top, making for smoother whiskey. Use casks a limited number of times to allow for more flavours. One of Glanmorangie prized assets is Tarlogie Springs, their fresh water source. The water is produced by rain water forcing through limestone and sandstone over hundreds of years. The process infuses the water with natural minerals giving glenmorangie it's ingredient unique among Highland distilleries.
+Owns the tallest stills in Scotland, allowing only the lightest and purest vapors to make it to the top, making for smoother whisky. Use casks a limited number of times to allow for more flavours. One of Glanmorangie prized assets is Tarlogie Springs, their fresh water source. The water is produced by rain water forcing through limestone and sandstone over hundreds of years. The process infuses the water with natural minerals giving glenmorangie it's ingredient unique among Highland distilleries.
 
 <img src="/images/2014-06/3-glenmorangie_lasanta_sherry.jpg" align="right" style="height: 250px"/>
 ### Lasanta
