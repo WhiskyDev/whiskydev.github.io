@@ -121,7 +121,6 @@ Owns the tallest stills in Scotland, allowing only the lightest and purest vapor
 <img  src="/images/2014-06/IMG_4575.jpg" style="height: 250px"/>
 
 A relatively young distillery, started in only 1995. Claims to have the purest water in all of Scotland, cleansed by granite and softened by peat makes its way from the mountains into near by Loch na Davie. The island is known for producing the highest quality whisky. Don't use peat in production or caramel for artificially coloring their whiskies.
-http://www.arranwhisky.com/content/arran-distillery
 
 <img src="/images/2014-06/6-arran_port.jpg" align="right" style="height: 250px"/>
 ### The Arran Malt
