@@ -9,6 +9,8 @@ image:
     desc: Whisky Tasting
 ---
 
+**[Get your tickets now][1]**
+
 Summer is quickly drawing to a close. No doubt you’ve experienced quite a bit since our last tasting. You’ve spent time with friends, debated ideas, had new experiences, and possibly bonded around a fire.
 
 There’s something interesting about fire, and its ability to generate discussion and community, be it a campfire or maybe a barbeque. If you think of one of those times, what senses come to mind? What do you taste? What do you smell?
@@ -22,6 +24,8 @@ Join us on **September 27th @ 7pm**.
 Tickets go on sale **this Thursday at 8am**, and will be available through our **[Tickets page][1]**. 
 
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
+
+**[Get your tickets now][1]**
 
   [1]: /tickets/
   [2]: /subscribe/

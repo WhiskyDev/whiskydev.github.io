@@ -1,11 +1,12 @@
 ---
  layout: page
  title: Tickets
- ---
+ redirect: https://www.eventbrite.ca/e/september-tasting-purely-peat-tickets-12901132635
+---
  
- Sorry friend, tickets are not yet on sale for our [September Tasting: Purely Peat][1].
+ Tickets are on sale now and you should be redirected shortly.
  
- Tickets go on sale at **8am on Thursday September 4th**. Check out the [event details][1] for more information.
+ Alternatively, you can [click here to go to the Eventbrite page][1].
  
  
- [1]: /2014/09/02/September-Tasting-Purely-Peat/
+ [1]: https://www.eventbrite.ca/e/september-tasting-purely-peat-tickets-12901132635
