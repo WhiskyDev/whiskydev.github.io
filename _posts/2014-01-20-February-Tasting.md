@@ -2,6 +2,7 @@
 layout: post
 title: February Tasting
 date: 2014-01-20 20:14:00
+tags: [events]
 share: y
 disqus: y
 ---

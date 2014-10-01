@@ -2,6 +2,7 @@
 layout: post
 title: Notes from the September Tasting
 date: 2014-09-30 20:47:00
+tags: [tasting-notes]
 share: y
 image: 
     src: /images/2014-09/IMG_4891.jpg

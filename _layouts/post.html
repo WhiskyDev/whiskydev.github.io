@@ -1,3 +1,19 @@
+{% if page.tags.size > 0 %}
+    {% capture tags_content %}Post tagged with{% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+    {% for post_tag in page.tags %}
+        {% for data_tag in site.data.tags %}
+            {% if data_tag.slug == post_tag %}
+                {% assign tag = data_tag %}
+            {% endif %}
+        {% endfor %}
+        {% if tag %}
+            {% capture tags_content_temp %}{{ tags_content }}<a href="/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+            {% assign tags_content = tags_content_temp %}
+        {% endif %}
+    {% endfor %}
+{% else %}
+    {% assign tags_content = '' %}
+{% endif %}
 <html>
   <head>
     <meta content='{{ page.title }} - {{ site.title }}' property='og:title' />
@@ -25,10 +41,12 @@
 	          <img src="{{ page.image.src }}" alt="{{ page.image.desc }}" />
 	      </p>    
 	      {% endif %}
+	      {{page.tags}}
+		  {{site.data.tags}}
           {{ content }}
           {% include signoff.html %}
 
-
+		  <p id="post-meta">{{ tags_content }}</p>
         </section>
       </div>
       {% if page.share == 'y' %}

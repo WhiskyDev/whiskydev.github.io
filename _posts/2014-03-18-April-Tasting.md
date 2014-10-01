@@ -2,6 +2,7 @@
 layout: post
 title: April Tasting
 date: 2014-03-19 21:00:00
+tags: [events]
 share: y
 disqus: y
 image: 

@@ -2,6 +2,7 @@
 layout: post
 title: "June Tasting: Focus on the Finish"
 date: 2014-05-27 22:20:00
+tags: [events]
 share: y
 disqus: y
 image: 

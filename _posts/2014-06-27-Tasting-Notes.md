@@ -2,6 +2,7 @@
 layout: post
 title: Notes from the June Tasting
 date: 2014-06-27 12:00:00
+tags: [tasting-notes]
 share: y
 image: 
     src: /images/2014-06/IMG_4573.jpg

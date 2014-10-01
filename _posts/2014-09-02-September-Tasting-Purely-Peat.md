@@ -2,6 +2,7 @@
 layout: post
 title: "September Tasting: Purely Peat"
 date: 2014-09-02 08:00:00
+tags: [events]
 share: y
 disqus: y
 image: 
