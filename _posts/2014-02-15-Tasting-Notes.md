@@ -2,6 +2,7 @@
 layout: post
 title: Notes from the February Tasting
 date: 2014-02-18 19:00:00
+tags: [tasting-notes]
 share: y
 disqus: y
 image: 

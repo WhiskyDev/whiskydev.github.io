@@ -1,0 +1,48 @@
+{% for data_tag in site.data.tags %}
+	{% if data_tag.slug == page.tag %}
+		{% assign tag = data_tag %}
+	{% endif %}
+{% endfor %}
+
+
+<html>
+  <head>
+    <meta content='{{ tag.name }} - {{ site.title }}' property='og:title' />
+    <title>{{ tag.name }} - {{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div id='container'>
+      {% include links.html %}
+      {% include pages.html %}
+      <div class="content">
+        <h1>Posts tagged with {{ tag.name }}</h1>
+		<div>
+			<ul class="posts">
+			
+				{% if site.tags[page.tag] %}
+					{% for post in site.tags[page.tag] %}
+						<li>
+						  <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
+						  <a href="{{ post.url }}">{{ post.title }}</a>
+						</li>
+					{% endfor %}
+				{% else %}
+					<p>There are no posts for this tag.</p>
+				{% endif %}
+			</ul>
+		</div>
+      </div>
+      {% if page.share == 'y' %}
+        {% include share.html %}
+      {% endif %}
+
+      {% if page.disqus == 'y' %}
+        {% include disqus.html %}
+      {% endif %}
+      {% include links.html %}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

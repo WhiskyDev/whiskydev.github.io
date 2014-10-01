@@ -2,6 +2,7 @@
 layout: post
 title: "Our April Tasting: Whiskies Around the World"
 date: 2014-03-27 07:17:00
+tags: [events]
 share: y
 disqus: y
 image: 

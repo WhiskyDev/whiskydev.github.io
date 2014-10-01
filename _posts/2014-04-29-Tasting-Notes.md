@@ -2,6 +2,7 @@
 layout: post
 title: Notes from the April Tasting
 date: 2014-04-29 12:00:00
+tags: [tasting-notes]
 share: y
 ---
 
