@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November Tasting: Tour of the Highlands"
+title: "November Tasting: Journey Through the Highlands"
 date: 2014-10-27 08:00:00
 tags: [events]
 share: y
