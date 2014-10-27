@@ -8,4 +8,4 @@
  Check the [November Tasting: Tour of the Highlands][1] announcement for full details.
  
  
- [1]: /2014/10/27/October-Tasting-Tour-of-the-highlands/
+ [1]: /2014/10/27/November-Tasting-Tour-of-the-highlands/
