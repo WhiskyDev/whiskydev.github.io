@@ -1,11 +1,11 @@
 ---
  layout: page
  title: Tickets
+ redirect: https://www.eventbrite.ca/e/november-tasting-journey-through-the-highlands-tickets-13949133233
 ---
 
- Sorry friend, you're here a little early. Tickets go on Sale at **8 am on Tuesday, October 28th**. 
+ Tickets are on sale now and you should be redirected shortly.
 
- Check the [November Tasting: Tour of the Highlands][1] announcement for full details.
- 
- 
- [1]: /2014/10/27/October-Tasting-Tour-of-the-highlands/
+ Alternatively, you can [click here to go to the Eventbrite page][1].
+
+ [1]: https://www.eventbrite.ca/e/november-tasting-journey-through-the-highlands-tickets-13949133233
