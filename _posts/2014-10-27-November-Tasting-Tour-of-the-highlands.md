@@ -10,6 +10,8 @@ image:
     desc: Whisky Tasting
 ---
 
+**[Get your tickets now](/tickets/)**
+
 Do you have a sense of adventure, and a taste for exploring the unknown? 
 Join us at our next tasting on **November 15th @ 7pm** as we go on a 
 journey of discovery through the Highland region's culture, and Highland scotches.
@@ -20,6 +22,8 @@ Tickets go on sale **tomorrow (Tuesday October 28th) at 8am**,
 and will be available through our [Tickets page][1]. 
 
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
+
+**[Get your tickets now](/tickets/)**
 
   [1]: /tickets/
   [2]: /subscribe/
