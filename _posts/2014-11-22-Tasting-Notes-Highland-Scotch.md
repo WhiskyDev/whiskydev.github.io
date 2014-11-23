@@ -1,10 +1,11 @@
 ---
 layout: post
-title: test
+title: Notes from the November tasting
 date: 2014-11-22 11:30:45
 tags: [tasting-notes]
 share: y
 disqus: y
+image:
     src: /images/2014-11/DSCN2849.jpg
     desc: November Whisky Tasting Line-up
 ---
