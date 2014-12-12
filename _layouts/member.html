@@ -1,7 +1,7 @@
 <html>
   <head>
-    <meta content='{{ page.name }} - {{ site.title }}' property='og:title' />
-    <title>{{ page.name }} - {{ site.title }}</title>
+    <meta content='{{ page.member_name }} - {{ site.title }}' property='og:title' />
+    <title>{{ page.member_name }} - {{ site.title }}</title>
     {% include head.html %}
   </head>
   <body>
@@ -17,11 +17,11 @@
         {% endif %}  
         <section class='member'>
           <h1 class="upcase">
-            {{ page.name }}
+            {{ page.member_name }}
           </h1>
           {% if page.image %}
           <p>
-	          <img src="{{ page.image.src }}" alt="{{ page.name }}" />
+	          <img src="{{ page.image.src }}" alt="{{ page.member_name }}" />
 	      </p>
 	      {% endif %}
           {{ content }}

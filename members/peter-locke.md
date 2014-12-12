@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Peter Locke
+member_name: Peter Locke
 image: 
     src: /members/images/petemarksman.jpg
 ---

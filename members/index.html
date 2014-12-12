@@ -6,7 +6,7 @@ title: Members
 <ul class="members">
   {% for page in site.pages order:ascending %}
     {% if page.layout == "member" %}
-    <li><a href="{{page.url}}">{{page.name}}</a>
+    <li><a href="{{page.url}}">{{page.member_name}}</a>
     </li>
     {% endif %}
   {% endfor %}
