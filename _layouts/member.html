@@ -1,3 +1,16 @@
+{% assign event_attendances = false %}
+{% capture attendances %}
+{% for event in site.data.events %}
+  {% for attendee in event.attendees %}
+    {% if attendee == page.member_name %}
+      <li>
+        <a href="{{ event.url }}">{{ event.name }}</a>
+      </li>
+      {% assign event_attendances = true %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+{% endcapture %}
 <html>
   <head>
     <meta content='{{ page.member_name }} - {{ site.title }}' property='og:title' />
@@ -11,8 +24,8 @@
       {% include pages.html %}
       <div class="content">
         {% if page.redirect %}
-          	<div class="moved">
-            	The page you are viewing has moved. <a href="{{ page.redirect }}">Click here</a> to be taken to the new page.
+            <div class="moved">
+                The page you are viewing has moved. <a href="{{ page.redirect }}">Click here</a> to be taken to the new page.
             </div>
         {% endif %}  
         <section class='member'>
@@ -21,10 +34,17 @@
           </h1>
           {% if page.image %}
           <p>
-	          <img src="{{ page.image.src }}" alt="{{ page.member_name }}" />
-	      </p>
-	      {% endif %}
+              <img src="{{ page.image.src }}" alt="{{ page.member_name }}" />
+          </p>
+          {% endif %}
           {{ content }}
+          
+          {% if event_attendances %}
+          <h2>Events I've attended</h2>
+          <ul>
+            {{ attendances }}
+          <ul>
+          {% endif %}
         </section>
       </div>
       {% if page.share == 'y' %}

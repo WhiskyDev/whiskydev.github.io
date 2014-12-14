@@ -9,8 +9,8 @@ I'm one of the organizers of Whisky Oriented Development.  I help with presentin
 
 ## Website
 
-https://github.com/pushplay  
-https://twitter.com/jeffgrajkowski
+[https://github.com/pushplay](https://github.com/pushplay)
+[https://twitter.com/jeffgrajkowski](https://github.com/pushplay)
 
 ## Technologies of choice
 
@@ -18,7 +18,3 @@ https://twitter.com/jeffgrajkowski
 * Javascript
 * Java
 * C#
-
-## Events I've attended
-
-* [February Tasting](/2014/02/18/Tasting-Notes/)
