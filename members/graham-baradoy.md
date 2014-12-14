@@ -5,7 +5,9 @@ image:
     src: /members/images/graham-baradoy.jpg
 ---
 
-I'm one of the organizers of Whisky Oriented Development, my main responsibilities are presenting, lineups and logistics. I am the Engineering Team Lead at [Kiind](http://www.kiind.me). 
+I'm one of the organizers of Whisky Oriented Development, my main responsibilities are 
+presenting, lineups and logistics. I am the Engineering Team Lead at 
+[Kiind](http://www.kiind.me). 
 
 ## Technologies of choice
 
@@ -16,7 +18,3 @@ I'm one of the organizers of Whisky Oriented Development, my main responsibiliti
 
 * Fraud Detection/Prevention
 * Batch/Distributed Systems
-
-## Events I've attended
-
-* [February Tasting](/2014/02/18/Tasting-Notes/)
