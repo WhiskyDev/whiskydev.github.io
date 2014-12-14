@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Jamie Starke
+member_name: Jamie Starke
 image: 
     src: /members/images/jamie-starke.jpg
 ---

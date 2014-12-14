@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Jeffery Grajkowski
+member_name: Jeffery Grajkowski
 image: 
     src: /members/images/jeffery-grajkowski.jpg
 ---

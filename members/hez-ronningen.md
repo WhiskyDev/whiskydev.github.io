@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Hez Ronningen
+member_name: Hez Ronningen
 image: 
     src: /members/images/hez-ronningen.jpg
 ---

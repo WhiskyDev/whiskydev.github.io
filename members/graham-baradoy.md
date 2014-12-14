@@ -1,6 +1,6 @@
 ---
 layout: member
-name: Graham Baradoy
+member_name: Graham Baradoy
 image: 
     src: /members/images/graham-baradoy.jpg
 ---
