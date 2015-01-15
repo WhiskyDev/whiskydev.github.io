@@ -17,7 +17,7 @@ in Scotland.
 
 If you have attended any of our previous tastings, you know it’s a good time. 
 
-Tickets go on sale this **Tuesday, January 23rd at 8am**, and will be available through 
+Tickets go on sale this **Tuesday, January 20th at 8am**, and will be available through 
 our [Tickets page][1]. 
 
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
