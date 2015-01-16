@@ -1,11 +1,11 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.eventbrite.ca/e/november-tasting-journey-through-the-highlands-tickets-13949133233
 ---
 
- Tickets are on sale now and you should be redirected shortly.
+ Sorry friend, you're here a little early. Tickets go on Sale at **8 am on Tuesday, January 20th**. 
 
- Alternatively, you can [click here to go to the Eventbrite page][1].
-
- [1]: https://www.eventbrite.ca/e/november-tasting-journey-through-the-highlands-tickets-13949133233
+ Check the [February Tasting: Stroll through Speyside][1] announcement for full details.
+ 
+ 
+ [1]: /2015/01/15/February-Tasting-Stroll-Through-Speyside/
