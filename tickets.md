@@ -1,11 +1,11 @@
 ---
  layout: page
  title: Tickets
+ redirect: http://www.eventbrite.com/e/a-sojourn-through-speyside-tickets-15369594872?aff=whiskydev
 ---
 
- Sorry friend, you're here a little early. Tickets go on Sale at **8 am on Tuesday, January 20th**. 
+ Tickets are on sale now and you should be redirected shortly.
 
- Check the [February Tasting: Stroll through Speyside][1] announcement for full details.
- 
- 
- [1]: /2015/01/15/February-Tasting-Stroll-Through-Speyside/
+Alternatively, you can [click here to go to the Eventbrite page][1].
+
+[1]: http://www.eventbrite.com/e/a-sojourn-through-speyside-tickets-15369594872?aff=whiskydev
