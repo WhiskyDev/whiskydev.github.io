@@ -12,7 +12,7 @@ image:
 
 Do you have a sense of curiosity and a thirst for understanding? Join us for our All Islay
 tasting on **Saturday, March 28 @ 7pm**. We will be taking a tasting tour around the 
-island known for it’s smoky and peated whisky. 
+island known for its smoky and peated whisky. 
 
 If you have attended any of our previous tastings, you know it’s a good time. 
 
