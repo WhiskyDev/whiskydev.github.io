@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: http://www.eventbrite.com/e/a-sojourn-through-speyside-tickets-15369594872?aff=whiskydev
 ---
 
- Tickets are on sale now and you should be redirected shortly.
+Sorry friend, you're here a little early. Tickets go on Sale at **8 am on Thursday, February 26th**.
 
-Alternatively, you can [click here to go to the Eventbrite page][1].
+Check the [March Tasting: All Islay][1] announcement for full details.
 
-[1]: http://www.eventbrite.com/e/a-sojourn-through-speyside-tickets-15369594872?aff=whiskydev
+[1]: 2015/02/23/March-Tasting-All-Islay/
