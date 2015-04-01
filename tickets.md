@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: http://www.eventbrite.com/e/all-islay-tickets-15869303514?aff=whiskydev
 ---
 
-Tickets are on sale now and you should be redirected shortly.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on April 9th.
 
-Alternatively, you can [click here to go to the Eventbrite page][1].
+For more details on our next tasting, check out [May Tasting: BenRiach and GlenDronach][1].
 
-[1]: http://www.eventbrite.com/e/all-islay-tickets-15869303514?aff=whiskydev
+[1]: /2015/04/01/May-Tasting-BenRiach-GlenDronach/
