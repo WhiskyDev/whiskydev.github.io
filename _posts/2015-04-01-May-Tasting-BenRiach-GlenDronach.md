@@ -10,6 +10,8 @@ image:
     desc: Whisky Tasting
 ---
 
+**[Get your tickets now][1]**
+
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **Saturday May 9 @ 7pm** as explore the BenRiach and GlenDronach distilleries.
 
 If you have attended any of our previous tastings, you know it’s a good time. 
@@ -17,6 +19,8 @@ If you have attended any of our previous tastings, you know it’s a good time.
 Tickets go on sale **Thursday, April 9 @ 8am**, and will be available through our our [Tickets page][1]. Tickets have sold out in less than an hour before, so be sure to make grab your tickets as soon as they are available. 
 
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+.
+
+**[Get your tickets now][1]**
 
   [1]: /tickets/
   [2]: /subscribe/

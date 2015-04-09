@@ -1,10 +1,11 @@
 ---
  layout: page
  title: Tickets
+ redirect: https://www.picatic.com/whiskydev-may2015
 ---
 
-Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on April 9th.
+You should be forwarded soon.
 
-For more details on our next tasting, check out [May Tasting: BenRiach and GlenDronach][1].
+If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: /2015/04/01/May-Tasting-BenRiach-GlenDronach/
+[1]: https://www.picatic.com/whiskydev-may2015
