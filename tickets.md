@@ -1,11 +1,11 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/whiskydev-may2015
+ redirect: https://www.picatic.com/whiskydev-july2015
 ---
 
 You should be forwarded soon.
 
 If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: https://www.picatic.com/whiskydev-may2015
+[1]: https://www.picatic.com/whiskydev-july2015
