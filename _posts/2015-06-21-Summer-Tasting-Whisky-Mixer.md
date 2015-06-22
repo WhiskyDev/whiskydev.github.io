@@ -6,7 +6,7 @@ tags: [events]
 share: y
 disqus: y
 image:
-    src: /images/2015-04/IMG_4898.jpg
+    src: /images/2015-06/whisky-mixer.PNG
     desc: Whisky Tasting
 ---
 
