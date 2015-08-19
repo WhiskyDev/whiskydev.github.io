@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "September Tastings: Go Tos and Intro To Whisky (redux)"
-date: 2015-08-19 15:00:00
+date: 2015-08-19 14:25:00
 tags: [events]
 share: y
 disqus: y
