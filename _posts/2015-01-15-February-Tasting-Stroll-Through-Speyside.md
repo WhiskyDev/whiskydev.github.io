@@ -10,7 +10,7 @@ image:
     desc: Whisky Tasting
 ---
 
-+**[Get your tickets now][1]**
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
 
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next 
 tasting on **February 21st @ 7pm** as we go for a stroll along the river Spey, take a glimpse 
@@ -23,8 +23,6 @@ Tickets go on sale this **Tuesday, January 20th at 8am**, and will be available 
 our [Tickets page][1]. 
 
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
-
-**[Get your tickets now][1]**
 
   [1]: /tickets/
   [2]: /subscribe/

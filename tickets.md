@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/whiskydev-july2015
 ---
 
-You should be forwarded soon.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on August 20th.
 
-If you aren't, you can [click here][1] to get to the [Tickets][1].
+For more details on our next tasting, check out [September Tastings: Go Tos and Intro To Whisky (redux)][1].
 
-[1]: https://www.picatic.com/whiskydev-july2015
+[1]: /2015/08/19/September-Tastings-Go-Tos-Intro-To-Whisky/

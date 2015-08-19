@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Most Recent Event
-redirect: /2014/05/27/June-Tasting-Focus-on-the-Finish/
+redirect: /2015/08/19/September-Tastings-Go-Tos-Intro-To-Whisky/
 ---
 
