@@ -10,7 +10,7 @@ image:
     desc: Whisky Tasting
 ---
 
-**[Get your tickets now](/tickets/)**
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
 
 Do you have a thirst for learning new things? Do you like finding out what’s going on around you? Do enjoy the taste of a wee dram?
 
@@ -23,8 +23,6 @@ Join us for our next tasting on **June 21st @ 7pm**.
 Tickets go on sale **this Friday at 7am**, and will be available through our **[Tickets page][1]**. 
 
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
-
-**[Get your tickets now](/tickets/)**
 
   [1]: /tickets/
   [2]: /subscribe/
