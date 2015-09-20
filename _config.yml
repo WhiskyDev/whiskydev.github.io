@@ -16,6 +16,8 @@ links:
     url:          /members/
   - name:         Subscribe
     url:          /subscribe/
+  - name:         Slack
+    url:          http://slack-invite.whiskydev.com
   - name:         Facebook
     url:          /facebook/
     publisher:    true
@@ -25,7 +27,7 @@ links:
   - name:         Google+
     url:          /google/
     publisher:    true
-pygments:         true
+highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
