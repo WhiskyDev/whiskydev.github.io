@@ -3,12 +3,8 @@
  title: Tickets
 ---
 
-Whoa! We have multiple tastings on sale right now (that's a first).
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on October 27th.
 
-Please tell us which one you're looking for:
+For more details on our next tasting, check out [November Tasting: Bowmore Vertical][1].
 
-* [Go To Bottles Tasting][1]
-* [Introduction to Whisky][2]
-
-[1]: https://www.picatic.com/whiskydev-go-to-bottles
-[2]: https://www.picatic.com/whiskydev-intro-to-whisky-2015
+[1]: /2015/10/22/November-Tasting-Bowmore/
