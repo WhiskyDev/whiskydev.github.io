@@ -10,7 +10,7 @@ image:
     desc: Whisky Tasting
 ---
 
-**[Get your tickets now][1]**
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
 
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next two tastings this 
 September.
@@ -29,8 +29,6 @@ Tickets go on sale this Thursday, August 20th at 8am, and will be available thro
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
 
 We hope to see you all there.
-
-**[Get your tickets now][1]**
 
   [1]: /tickets/
   [2]: /subscribe/
