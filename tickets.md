@@ -1,10 +1,11 @@
 ---
  layout: page
  title: Tickets
+ redirect: https://www.picatic.com/whiskydev-bowmore-2015
 ---
 
-Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on October 27th.
+You should be forwarded soon.
 
-For more details on our next tasting, check out [November Tasting: Bowmore Vertical][1].
+If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: /2015/10/22/November-Tasting-Bowmore/
+[1]: https://www.picatic.com/whiskydev-bowmore-2015
