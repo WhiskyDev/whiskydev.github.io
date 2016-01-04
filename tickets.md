@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/whiskydev-bowmore-2015
 ---
 
-You should be forwarded soon.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on **January 7th**.
 
-If you aren't, you can [click here][1] to get to the [Tickets][1].
+For more details on our next tasting, check out [January Tasting: Back Around the World][1].
 
-[1]: https://www.picatic.com/whiskydev-bowmore-2015
+[1]: /2016/01/04/January-Tasting-Around-the-World/
