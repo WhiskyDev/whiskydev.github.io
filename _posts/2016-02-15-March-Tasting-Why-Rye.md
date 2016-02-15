@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March Tasting: Why Rye?"
+title: "March Tasting: Why Rye"
 date: 2016-02-15 15:25:00
 tags: [events]
 share: y
