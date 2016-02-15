@@ -3,8 +3,8 @@
  title: Tickets
 ---
 
-Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on **January 7th**.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on **February 18th @ 8 am**.
 
-For more details on our next tasting, check out [January Tasting: Back Around the World][1].
+For more details on our next tasting, check out [March Tasting: Why Rye][1].
 
-[1]: /2016/01/04/January-Tasting-Around-the-World/
+[1]: /2016/02/15/March-Tasting-Why-Rye/

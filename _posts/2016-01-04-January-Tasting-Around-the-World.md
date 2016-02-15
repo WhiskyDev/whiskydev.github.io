@@ -10,6 +10,8 @@ image:
     desc: Whisky Tasting
 ---
 
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
+
 Do you have a sense of curiosity and a thirst for understanding? Join us on **Saturday, January 30th @ 7pm** as we take a whisky tour of the globe as part of our Whisky Around the World tasting.
 
 If you have attended any of our previous tastings, you know it’s a good time. 
