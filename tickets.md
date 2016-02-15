@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/around-the-world-2016
 ---
 
-You should be forwarded soon.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on **February 18th @ 8 am**.
 
-If you aren't, you can [click here][1] to get to the [Tickets][1].
+For more details on our next tasting, check out [March Tasting: Why Rye][1].
 
-[1]: https://www.picatic.com/around-the-world-2016
+[1]: /2016/02/15/March-Tasting-Why-Rye/
