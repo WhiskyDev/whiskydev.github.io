@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "March Tasting: Why Rye?"
-date: 2016-02-15 16:00:00
+title: "March Tasting: Why Rye"
+date: 2016-02-15 15:25:00
 tags: [events]
 share: y
 disqus: y
@@ -9,6 +9,8 @@ image:
     src: /images/2016-02/rye.jpg
     desc: Fields of Rye
 ---
+
+**[Get your tickets now][1]**
 
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **Saturday, March 12th @ 7pm** as explore 8 different Rye Whiskies, and try to show you why Rye is more than just a mixing alcohol.
 
@@ -19,6 +21,8 @@ Tickets go on sale this **Thursday, February 18th @ 8am**, and will be available
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
 
 We hope to see you all there.
+
+**[Get your tickets now][1]**
 
   [1]: /tickets/
   [2]: /subscribe/
