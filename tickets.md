@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/145551411957-march-tasting-why-rye
 ---
 
-You should be forwarded soon.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on *May 16th @ 8 am**.
 
-If you aren't, you can [click here][1] to get to the [Tickets][1].
+For more details on our next tasting, check out June Tasting: The Locals][1].
 
-[1]: https://www.picatic.com/145551411957-march-tasting-why-rye
+[1]: /most-recent/
