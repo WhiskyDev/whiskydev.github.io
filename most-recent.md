@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Most Recent Event
-redirect: /2016/02/15/March-Tasting-Why-Rye/
+redirect: /2016/05/09/June-Tasting-The-Locals/
 ---
 
