@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "June Tasting: The Locals"
-date: 2016-05-09 15:00:00
+date: 2016-05-10 19:00:00
 tags: [events]
 share: y
 disqus: y
