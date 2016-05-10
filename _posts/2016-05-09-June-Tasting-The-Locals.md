@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June Tasting:The Locals"
+title: "June Tasting: The Locals"
 date: 2016-05-09 15:00:00
 tags: [events]
 share: y
@@ -10,7 +10,7 @@ image:
     desc: Whisky Tasting
 ---
 
-Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on *Saturday, June 4th at 7pm** as we explore some of the more local whiskies, from as near as Victoria, to as far as Washington and the Okanagan.
+Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **Saturday, June 4th at 7pm** as we explore some of the more local whiskies, from as near as Victoria, to as far as Washington and the Okanagan.
 
 If you have attended any of our previous tastings, you know it’s a good time. 
 
