@@ -12,8 +12,6 @@ links:
     url:          /
   - name:         Blog
     url:          /blog/
-  - name:         Members
-    url:          /members/
   - name:         Subscribe
     url:          /subscribe/
   - name:         Facebook
