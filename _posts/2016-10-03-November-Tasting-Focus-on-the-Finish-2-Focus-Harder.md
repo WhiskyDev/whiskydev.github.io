@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "November Tasting: Focus on the Finish 2, Focus Harder"
-date: 2016-10-02 19:00:00
+date: 2016-10-04 14:00:00
 tags: [events]
 share: y
 disqus: y
