@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/whiskydev-june-2016-14631510455663
 ---
 
-You should be forwarded soon.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on *October 6th @ 8 am**.
 
-If you aren't, you can [click here][1] to get to the [Tickets][1].
+For more details on our next tasting, check out June Tasting: The Locals][1].
 
-[1]: https://www.picatic.com/whiskydev-june-2016-14631510455663
+[1]: /most-recent/
