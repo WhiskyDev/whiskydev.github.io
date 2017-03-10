@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "April Tasting: TBD"
+title: "April Tasting: Totally Actually Rum"
 date: 2017-03-10 17:00:00
 tags: [events]
 share: y
