@@ -10,7 +10,7 @@ image:
     desc: Whisky Tasting
 ---
 
-Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on April 1st @ 7pm as we ruminate over rum.
+Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **April 1st @ 7pm** as we ruminate over rum.
 
 If you have attended any of our previous tastings, you know it’s a good time. 
 
