@@ -10,6 +10,8 @@ image:
     desc: Whisky Tasting
 ---
 
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
+
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on February 18th @ 7pm as we visit the heart of Speyside.
 
 If you have attended any of our previous tastings, you know it’s a good time. 
