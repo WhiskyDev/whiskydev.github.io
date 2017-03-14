@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/2017-speyside
 ---
 
-You should be forwarded soon.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on *March 13th @ 8 am**.
 
-If you aren't, you can [click here][1] to get to the [Tickets][1].
+For more details on our next tasting, check out [April Tasting: Totally Actually Rum][1].
 
-[1]: https://www.picatic.com/2017-speyside
+[1]: /most-recent/
