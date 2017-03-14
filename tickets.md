@@ -1,10 +1,11 @@
 ---
  layout: page
  title: Tickets
+ redirect: https://www.picatic.com/event14891755889981
 ---
 
-Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on **March 13th @ 8 am**.
+You should be forwarded soon.
 
-For more details on our next tasting, check out [April Tasting: Totally Actually Rum][1].
+If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: /most-recent/
+[1]: https://www.picatic.com/event14891755889981

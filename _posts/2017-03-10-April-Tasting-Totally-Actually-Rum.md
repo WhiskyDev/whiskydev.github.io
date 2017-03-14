@@ -10,6 +10,8 @@ image:
     desc: Whisky Tasting
 ---
 
+**[Get your tickets now][1]**
+
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **April 1st @ 7pm** as we ruminate over rum.
 
 If you have attended any of our previous tastings, you know it’s a good time. 
@@ -19,6 +21,8 @@ Tickets go on sale this **Tuesday, March 14th at 8am**, and will be available th
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
 
 We hope to see you all there.
+
+**[Get your tickets now][1]**
 
   [1]: /tickets/
   [2]: /subscribe/
