@@ -1,11 +1,10 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/event14891755889981
 ---
 
-You should be forwarded soon.
+Sorry Friend, you appear to be a bit early. Tickets for our next event go on sale on **April 28th @ 8 am**.
 
-If you aren't, you can [click here][1] to get to the [Tickets][1].
+For more details on our next tasting, check out [May Tasting: Bruichladdich][1].
 
-[1]: https://www.picatic.com/event14891755889981
+[1]: /most-recent/
