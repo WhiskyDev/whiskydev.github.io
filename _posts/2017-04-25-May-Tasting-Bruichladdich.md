@@ -10,9 +10,11 @@ image:
     desc: Whisky Tasting
 ---
 
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
+
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **May 13th @ 7pm** as we check out Bruichladdich, from the island of Islay.
 
-If you have attended any of our previous tastings, you know it’s a good time. 
+If you have attended any of our previous tastings, you know it’s a good time.
 
 Tickets go on sale this **Friday, April 28th at 8am**, and will be available through our our [Tickets page][1]. Tickets have sold out in less than a day, so be sure to get yours.  
 
