@@ -1,11 +1,11 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/2017-all-india/
+ redirect: https://www.picatic.com/eight-bourbons
 ---
 
 You should be forwarded soon.
 
 If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: https://www.picatic.com/2017-all-india/
+[1]: https://www.picatic.com/eight-bourbons
