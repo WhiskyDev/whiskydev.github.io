@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Around the World and Back Again"
-date: 2017-10-11 17:00:00
+date: 2017-10-29 8:00:00
 tags: [events]
 share: y
 disqus: y
