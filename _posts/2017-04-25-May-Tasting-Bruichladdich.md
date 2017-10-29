@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "April Tasting: Totally Actually Rum"
-date: 2017-03-10 17:00:00
+title: "May Tasting: Bruichladdich"
+date: 2017-04-25 17:00:00
 tags: [events]
 share: y
 disqus: y
@@ -12,11 +12,11 @@ image:
 
 **This event has passed. See the announcement for our [most recent event](/most-recent/)**
 
-Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **April 1st @ 7pm** as we ruminate over rum.
+Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **May 13th @ 7pm** as we check out Bruichladdich, from the island of Islay.
 
-If you have attended any of our previous tastings, you know it’s a good time. 
+If you have attended any of our previous tastings, you know it’s a good time.
 
-Tickets go on sale this **Tuesday, March 14th at 8am**, and will be available through our our [Tickets page][1]. Tickets have sold out in less than a day, so be sure to get yours.  
+Tickets go on sale this **Friday, April 28th at 8am**, and will be available through our our [Tickets page][1]. Tickets have sold out in less than a day, so be sure to get yours.  
 
 Want get the latest on all our events? [Subscribe to our mailing list][2], [Follow us on Twitter][3], [Like us on Facebook][4], or [add us on Google+][5].
 

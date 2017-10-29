@@ -1,11 +1,11 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/event14891755889981
+ redirect: https://www.picatic.com/eight-bourbons
 ---
 
 You should be forwarded soon.
 
 If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: https://www.picatic.com/event14891755889981
+[1]: https://www.picatic.com/eight-bourbons
