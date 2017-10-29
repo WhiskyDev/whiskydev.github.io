@@ -10,6 +10,8 @@ image:
     desc: Whisky Tasting
 ---
 
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
+
 Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **October 28th @ 7pm** as we sample eight bourbons from eight different states.
 
 If you have attended any of our previous tastings, you know it’s a good time.
