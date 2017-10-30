@@ -10,7 +10,7 @@ image:
     desc: Whisky Tasting
 ---
 
-Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **November 25th @ 7pm** as we take another trip around the world of Whiskies, with 8 whiskies from 8 different countries. On the itinerary we will check out whiskies from Australia, Canada, France, Japan, Netherlands, Scotland, South Africa, Sweden, and Taiwan.
+Do you have a sense of curiosity and a thirst for understanding? Join us at our next tasting on **November 25th @ 7pm** as we take another trip around the world of whiskies, with 8 whiskies from 8 different countries. On the itinerary we will check out whiskies from Australia, Canada, France, Japan, Netherlands, Scotland, South Africa, Sweden, and Taiwan.
 
 If you have attended any of our previous tastings, you know it’s a good time.
 
