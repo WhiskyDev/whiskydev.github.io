@@ -14,7 +14,7 @@ Do you have a sense of curiosity and a thirst for understanding? Join us at our 
 
 If you have attended any of our previous tastings, you know it’s a good time.
 
-Tickets go on sale this **Friday, March 16th at 8am**, and will be available through our our [Tickets page][1]. Tickets have sold out in less than a day, so be sure to get yours.  
+**This event has passed. See the announcement for our [most recent event](/most-recent/)**
 
 Want get the latest on all our events? [Subscribe to our mailing list][2].
 
