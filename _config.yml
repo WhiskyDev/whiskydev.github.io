@@ -23,7 +23,7 @@ links:
   - name:         Google+
     url:          /google/
     publisher:    true
-pygments:         true
+highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
 redcarpet:
