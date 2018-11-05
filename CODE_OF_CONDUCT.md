@@ -23,7 +23,7 @@ Whisky Oriented Development requires that all participants drink responsibly. Th
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behaviour, organisers retain the right to take any actions to keep the community a welcoming environment for all participants. This includes warning the offender or expulsion from the community or events. 
+If a participant engages in harassing behaviour, organisers retain the right to take any actions to keep the community a welcoming environment for all participants. This includes warning the offender or expulsion from the community or events without refund. 
 
 Organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
