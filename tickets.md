@@ -7,4 +7,4 @@ Sorry friend, you appear to be a bit early. Tickets for our next event go on sal
 
 For more details, check out [our next tasting][1].
 
-[1]: /2018/10/24/Great-grains/
+[1]: /2018/10/05/Great-Grains/
