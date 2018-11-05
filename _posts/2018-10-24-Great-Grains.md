@@ -7,7 +7,7 @@ share: y
 disqus: y
 image:
     src: /images/2014-10/header.png
-    desc: Whisky Tasting - Grains
+    desc: Whisky Tasting - Great Grains
 ---
 
 We hope to see you on **November 24th, 2018 starting at 7PM** for our Great Grains whisky tasting. Distilleries are digging deep to find flavours to set themselves apart while keeping true to whisky tradition, and we've found a full roster to tickle your fancy (and your tastebuds, and your curiosity). 
