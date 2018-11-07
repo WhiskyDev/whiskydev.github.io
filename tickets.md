@@ -1,10 +1,11 @@
 ---
  layout: page
  title: Tickets
+ redirect: https://whiskydev.yapsody.com/event/index/325926/whisky-oriented-development-grains
 ---
 
-Sorry friend, you appear to be a bit early. Tickets for our next event go on sale on **November 7th @ 8 am**.
+You should be forwarded soon.
 
-For more details, check out [our next tasting][1].
+If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: /2018/10/05/Great-Grains/
+[1]: https://whiskydev.yapsody.com/event/index/325926/whisky-oriented-development-grains
