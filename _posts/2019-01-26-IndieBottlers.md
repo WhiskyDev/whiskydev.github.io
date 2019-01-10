@@ -12,7 +12,7 @@ image:
 
 We'll see you on **January 26, 2019** for our Independent Bottlers whisky tasting. This is a new one: independent bottlers offer a new take on existing brands and seek out the best anywhere. Come and see what WE found.
 
-Tickets to go **on sale Tuesday, January 15 at 9AM**.  The link shall follow shortly before that, via [email newsletter][3], [Slack][4], [Facebook][5], [Twitter][6], and at [whiskydev.com/tickets][1].
+Tickets to go **on sale Tuesday, January 15 at 9AM** at [whiskydev.com/tickets][1].  Set your reminders and/or watch [Slack][4], [Facebook][5], or [Twitter][6].
 
 Otherwise, as with all our events:
 
