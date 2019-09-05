@@ -1,9 +1,11 @@
 ---
  layout: page
  title: Tickets
+ redirect: https://whiskydev.tickit.ca/
 ---
-Tickets for our next event go on sale on **September 5th @ 8:30 am**.
 
-For more details see [the latest blog post][1].
+You should be forwarded soon.
 
-[1]: /most-recent/
+If you aren't, you can [click here][1] to get to the [Tickets][1].
+
+[1]: https://whiskydev.tickit.ca/
