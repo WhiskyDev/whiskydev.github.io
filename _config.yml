@@ -20,9 +20,6 @@ links:
   - name:         Twitter
     url:          /twitter/
     publisher:    true
-  - name:         Google+
-    url:          /google/
-    publisher:    true
 highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown
