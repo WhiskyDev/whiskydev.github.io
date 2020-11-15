@@ -25,7 +25,8 @@ This time around:
 - Plan suitable snacks! This could be an already-indulgent evening whisky-wise so it might be a great time to have some good cheese, chocolate, pastries, or something similar to complement these whiskies. 
 
 
-*Details*
+**Details**
+
 Online event. Zoom link and further details to follow in an email closer to the event.
 
 1. Whiskies to be picked up by you (Vic West near Tyee/Esquimalt Roads, or Esquimalt) after November 23rd; or some deliveries are available. Choose one of the pickup/delivery items at checkout in addition to your ticket. We'll be in touch afterward to confirm times/locations, or please contact us to discuss options!
@@ -35,10 +36,12 @@ Online event. Zoom link and further details to follow in an email closer to the 
 5. Prepare your own glassware. Though we'll be delivering whiskies in small bottles you can drink from if you like, whisky tastings usually use Glencairns or ISO wine tasting glasses for a reason! These feature a bulbous body shape which allows aromas to collect and direct through a narrow rim.
 6. Separate glasses are recommended for each whisky or at least do a quick rinse+dry between whiskies!
 
-*Questions?*
+**Questions?**
+
 [contact@whiskydev.com][3] or message us in [whiskydev.slack.com][2].
 
-*Become a WhiskyDev member!*
+**Become a WhiskyDev member!**
+
 Support more/better whiskies, be part of exclusive events, and get a new stemless WhiskyDev Glencairn glass! Add to your cart at [whiskydev.tickit.ca][1] when you grab your event tickets and we can deliver along with your whiskies!
 
 Our goal is to offer you a comfortable community to learn more about whisky and pick up on new favourites and flavours, while connecting and sharing with other people in Victoria's tech industry.
