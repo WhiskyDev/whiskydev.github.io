@@ -34,8 +34,6 @@ Online event. Zoom link and further details to follow in an email closer to the 
 4. 7:00 PM we'll welcome everyone in the Zoom room and get started.
 5. Prepare your own glassware. Though we'll be delivering whiskies in small bottles you can drink from if you like, whisky tastings usually use Glencairns or ISO wine tasting glasses for a reason! These feature a bulbous body shape which allows aromas to collect and direct through a narrow rim.
 6. Separate glasses are recommended for each whisky or at least do a quick rinse+dry between whiskies!
-7. If you ordered an advent calendar also (sold out now!) let's try to get tasting + calendar to you too.
-8. If you're not a member (or just want an awesome new WhiskyDev glass), snag a new membership as well when you buy your tickets.
 
 *Questions?*
 [contact@whiskydev.com][3] or message us in [whiskydev.slack.com][2].
@@ -44,6 +42,12 @@ Online event. Zoom link and further details to follow in an email closer to the 
 Support more/better whiskies, be part of exclusive events, and get a new stemless WhiskyDev Glencairn glass! Add to your cart at [whiskydev.tickit.ca][1] when you grab your event tickets and we can deliver along with your whiskies!
 
 Our goal is to offer you a comfortable community to learn more about whisky and pick up on new favourites and flavours, while connecting and sharing with other people in Victoria's tech industry.
+
+- There are a limited number of tickets, so grab your tickets quick!
+- Our goal is to offer you the opportunity to learn more about whisky and pick up on new favourites and flavours while connecting with other technical people and sharing your passions. We want it to be a comfortable place where you meet other programmers, learn what else is being worked on in Victoria, and pick up on some cool new technologies.
+- No refunds.
+- By purchasing a ticket you agree to not drive a motor vehicle after the event.
+- By purchasing a ticket you agree to (and are subject to) our [Community Agreement/Code of Conduct][5].
 
 Cheers,
 
